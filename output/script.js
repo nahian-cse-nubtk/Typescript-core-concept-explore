@@ -52,6 +52,12 @@ calculation = (a, b, c) => {
         return a - b;
     }
 };
-console.log(calculation(5, 6, "ad"));
+// console.log(calculation(5,6,"ad"))
+//object er name chage kora jay nah varibale er moto pore use korar khetre
+let userFullDetails;
+userFullDetails = (use) => {
+    console.log(`${use.name} and age: ${use.age}`);
+};
 export {};
+// userFullDetails({name:'shaikh',age:33})
 //# sourceMappingURL=script.js.map

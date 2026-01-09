@@ -80,4 +80,13 @@ calculation=(a:number,b:number, c:string):number=>{
         return a-b;
     }
 }
-console.log(calculation(5,6,"ad"))
+// console.log(calculation(5,6,"ad"))
+
+//object er name chage kora jay nah varibale er moto pore use korar khetre
+
+let userFullDetails:(user:{name:string,age:number})=>void
+
+userFullDetails=(use:{name:string,age:number})=>{
+    console.log(`${use.name} and age: ${use.age}`)
+}
+// userFullDetails({name:'shaikh',age:33})

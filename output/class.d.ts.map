@@ -1,0 +1,1 @@
+{"version":3,"file":"class.d.ts","sourceRoot":"","sources":["../src/class.ts"],"names":[],"mappings":"AA4BA,qBAAa,MAAM;IAEH,OAAO,CAAC,IAAI;IAAU,QAAQ,CAAC,GAAG,EAAE,MAAM;IAAC,QAAQ,CAAC,OAAO,EAAE,MAAM;gBAA3D,IAAI,EAAE,MAAM,EAAW,GAAG,EAAE,MAAM,EAAU,OAAO,EAAE,MAAM;IAC/E,IAAI;CAIP"}
